@@ -84,6 +84,7 @@ header > p {
 .meme-form > input {
   width: 45%;
   height: 40px;
+  padding-inline: 12px;
 }
 
 .meme-form > button {
